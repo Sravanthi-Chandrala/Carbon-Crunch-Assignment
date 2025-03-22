@@ -102,7 +102,7 @@ const Parallax = ({ children, images = [earthImage] }) => {
           }`}
           style={{
             backgroundImage: `url(${image})`,
-            width: index === 1 ? "100vw" : "500px",
+            width: index === 1 ? "800vw" : "500px",
             height: "800px",
             backgroundPosition: "center",
             left: index === 1 ? "-200px" : "0", 

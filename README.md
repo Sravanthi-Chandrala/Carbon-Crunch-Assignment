@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Carbon-Crunch-Assignment
 
 ## Overview
@@ -46,23 +47,54 @@ vercel deploy
 
 =======
 # Getting Started with Create React App
+=======
+# Parallax Slider
+>>>>>>> b1e8de7 (Initial commit)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This project implements a responsive web page with an Artistic Parallax Slider effect using React and GSAP. The page also includes floating statistic boxes that animate into view as the user scrolls.
 
-## Available Scripts
+## Features
+- Smooth parallax image transitions based on scroll progress.
+- Floating statistic boxes that animate into view.
+- Fully responsive design using Tailwind CSS.
 
-In the project directory, you can run:
+## Technologies Used
+- React
+- GSAP (GreenSock Animation Platform)
+- ScrollTrigger (GSAP Plugin)
+- Tailwind CSS
 
-### `npm start`
+## Installation & Usage
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/parallax-slider.git
+   cd parallax-slider
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
+4. Open `http://localhost:3000` in your browser to view the project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Deployment
+The project can be deployed on Vercel, Netlify, or GitHub Pages. For Vercel:
+```sh
+vercel deploy
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Credits
+- Background images from [Unsplash](https://unsplash.com/).
+- GSAP for animations.
 
-### `npm test`
+## Live Preview
+[Live Demo](https://your-live-preview-link.com)
 
+<<<<<<< HEAD
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
@@ -116,3 +148,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 558e355 (Initialize project using Create React App)
+=======
+>>>>>>> b1e8de7 (Initial commit)
