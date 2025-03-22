@@ -1,4 +1,4 @@
-Parallax Slider
+Carbon Crunch Assignment
 
 Overview
 
@@ -26,7 +26,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/your-username/parallax-slider.git
+git clone (https://github.com/Sravanthi-Chandrala/Carbon-Crunch-Assignment.git)
 cd parallax-slider
 
 Install dependencies:
