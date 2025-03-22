@@ -102,17 +102,10 @@ const Parallax = ({ children, images = [earthImage] }) => {
           }`}
           style={{
             backgroundImage: `url(${image})`,
-<<<<<<< HEAD
-            width: index === 1 ? "100vw" : "500px",
-            height: "800px",
-            backgroundPosition: "center",
-            left: index === 1 ? "-200px" : "0", 
-=======
             width: index === 1 ? "86vw" : "500px",
             height: "800px",
             backgroundPosition: "center",
-            left: index === 1 ? "-100px" : "0", 
->>>>>>> lost-commits
+            left: index === 1 ? "-200px" : "0", 
             opacity: index === currentImageIndex ? 1 : 0
           }}
         ></div>
